@@ -1,2 +1,0 @@
-can-isotp
-python-can
